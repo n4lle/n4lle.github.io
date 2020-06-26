@@ -6,3 +6,6 @@ Ford Prefect (also called Ix) is a fictional character in The Hitchhiker's Guide
 * funny
 * naive
 * warm-hearted
+
+> Life... is like a grapefruit. Well, it's sort of orangey-yellow and dimpled on the outside, wet and squidgy in the middle. It's got pips inside, too.
+> Oh, and some people have half a one for breakfast.
